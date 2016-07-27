@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jun 21 22:27:43 GMT-03:00 2016
+@default-seg-C\:\\\\Users\\Diego\\.m2\\repository/.lastUpdated=1466558863568
+C\:\\\\Users\\Diego\\.m2\\repository/.error=Could not transfer artifact br.com.a2dm\:brseg\:pom\:0.0.1-SNAPSHOT from/to seg (C\:\\\\Users\\Diego\\.m2\\repository)\: Cannot access C\:\\\\Users\\Diego\\.m2\\repository with type default using the available connector factories\: BasicRepositoryConnectorFactory
